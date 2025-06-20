@@ -1,7 +1,7 @@
 # Hi there, I'm Lavigne Ndiwa 👋
 
 🎓 Data Science & Analytics Student at JKUAT  
-💻 Passionate about Machine Learning, Data Visualization, and Cloud Technologies  
+💻 Passionate about Machine Learning, Big Data, Cyber Security and Cloud Technologies  
 📊 Certified in Data Science by ALX  
 🌱 Currently learning: AWS, SQL, Python, and Tableau  
 📫 Reach me: lavignendiwa@gmail.com
